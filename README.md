@@ -39,23 +39,62 @@
 - [License](#License)
 
 ## First Year
+	
+	* [Overall-Guides](./1st-Year-Guides/0.overall-guides.md)
+	* [Academic-Guides](./1st-Year-Guides/academic-guides.md)
+	* [Android-Dev](./1st-Year-Guides/android-dev.md)
+	* [Web-Dev](./1st-Year-Guides/web-dev.md)
+	* [Open-Source-Dev](./1st-Year-Guides/open-source-dev.md)
+	* [Game-Dev](./1st-Year-Guides/game-dev.md)
+	* [Java-Dev](./1st-Year-Guides/java-dev.md)
+	* [Python-Dev](./1st-Year-Guides/python-dev.md)
+	* [Competitive-Coding](./1st-Year-Guides/competitive-coding-guides.md)
 
-- [Node.js](https://github.com/sindresorhus/awesome-nodejs) - JavaScript runtime built on Chrome's V8 JavaScript engine.
 ## Second Year
 
-- [Node.js](https://github.com/sindresorhus/awesome-nodejs) - JavaScript runtime built on Chrome's V8 JavaScript engine.
+	* [Overall-Guides](./1st-Year-Guides/0.overall-guides.md)
+	* [Academic-Guides](./1st-Year-Guides/academic-guides.md)
+	* [Android-Dev](./1st-Year-Guides/android-dev.md)
+	* [Web-Dev](./1st-Year-Guides/web-dev.md)
+	* [Open-Source-Dev](./1st-Year-Guides/open-source-dev.md)
+	* [Game-Dev](./1st-Year-Guides/game-dev.md)
+	* [Java-Dev](./1st-Year-Guides/java-dev.md)
+	* [Python-Dev](./1st-Year-Guides/python-dev.md)
+	* [Competitive-Coding](./1st-Year-Guides/competitive-coding-guides.md)
+	* [Internships](./1st-Year-Guides/competitive-coding-guides.md)
+
 
 ## Third Year
 
-- [Node.js](https://github.com/sindresorhus/awesome-nodejs) - JavaScript runtime built on Chrome's V8 JavaScript engine.
+	* [Overall-Guides](./1st-Year-Guides/0.overall-guides.md)
+	* [Academic-Guides](./1st-Year-Guides/academic-guides.md)
+	* [Android-Dev](./1st-Year-Guides/android-dev.md)
+	* [Web-Dev](./1st-Year-Guides/web-dev.md)
+	* [Open-Source-Dev](./1st-Year-Guides/open-source-dev.md)
+	* [Game-Dev](./1st-Year-Guides/game-dev.md)
+	* [Java-Dev](./1st-Year-Guides/java-dev.md)
+	* [Python-Dev](./1st-Year-Guides/python-dev.md)
+	* [Competitive-Coding](./1st-Year-Guides/competitive-coding-guides.md)
+	* [Placements](./1st-Year-Guides/competitive-coding-guides.md)
+
 
 ## Final Year
 
-- [Node.js](https://github.com/sindresorhus/awesome-nodejs) - JavaScript runtime built on Chrome's V8 JavaScript engine.
+	* [Overall-Guides](./1st-Year-Guides/0.overall-guides.md)
+	* [Academic-Guides](./1st-Year-Guides/academic-guides.md)
+	* [Android-Dev](./1st-Year-Guides/android-dev.md)
+	* [Web-Dev](./1st-Year-Guides/web-dev.md)
+	* [Open-Source-Dev](./1st-Year-Guides/open-source-dev.md)
+	* [Game-Dev](./1st-Year-Guides/game-dev.md)
+	* [Java-Dev](./1st-Year-Guides/java-dev.md)
+	* [Python-Dev](./1st-Year-Guides/python-dev.md)
+	* [Competitive-Coding](./1st-Year-Guides/competitive-coding-guides.md)
+	* [Professional-Life](./1st-Year-Guides/competitive-coding-guides.md)
+
 
 ## Contributions
 
-- [Node.js](https://github.com/sindresorhus/awesome-nodejs) - JavaScript runtime built on Chrome's V8 JavaScript engine.
+	If you have a nice idea about this all, Please let us know.
 
 
 ## License
