@@ -29,67 +29,66 @@
 -->
 
 
-## Contents
-
-- [First Year](#First-Year)
-- [Second Year](#Second-Year)
-- [Third Year](#Third-Year)
-- [Final Year](#Final-Year)
-- [Contributions](#Contributions)
-- [License](#License)
+# Content
+- [First Year](first-year)
+- [Second Year](second-Year)
+- [Third Year](third-Year)
+- [Final Year](final-Year)
 
 ## First Year
 	
-* [Overall-Guides](./1st-Year-Guides/0.overall-guides.md)
-* [Academic-Guides](./1st-Year-Guides/academic-guides.md)
-* [Android-Dev](./1st-Year-Guides/android-dev.md)
-* [Web-Dev](./1st-Year-Guides/web-dev.md)
-* [Open-Source-Dev](./1st-Year-Guides/open-source-dev.md)
-* [Game-Dev](./1st-Year-Guides/game-dev.md)
-* [Java-Dev](./1st-Year-Guides/java-dev.md)
-* [Python-Dev](./1st-Year-Guides/python-dev.md)
-* [Competitive-Coding](./1st-Year-Guides/competitive-coding-guides.md)
+* [Overall-Guides](https://github.com/CC-MNNIT/MNNIT-Guides/wiki/1st-Year-Overall-Guides)
+* [Academic-Guides](https://github.com/CC-MNNIT/MNNIT-Guides/wiki/1st-Year-Academics-Guide)
+* [Android-Dev](https://github.com/CC-MNNIT/MNNIT-Guides/wiki/1st-Year-Android-dev)
+* [Web-Dev](https://github.com/CC-MNNIT/MNNIT-Guides/wiki/1st-Year-Web-dev)
+* [Open-Source-Dev](https://github.com/CC-MNNIT/MNNIT-Guides/wiki/1st-Year-Open-source)
+* [Game-Dev](https://github.com/CC-MNNIT/MNNIT-Guides/wiki/1st-Year-Game-dev)
+* [Java-Dev](https://github.com/CC-MNNIT/MNNIT-Guides/wiki/1st-Year-Java-dev)
+* [Python-Dev](https://github.com/CC-MNNIT/MNNIT-Guides/wiki/1st-Year-Python-dev)
+* [Competitive-Coding](https://github.com/CC-MNNIT/MNNIT-Guides/wiki/1st-Year-Competitive-coding-1)
+* [Some-Random-Tips :)](https://github.com/CC-MNNIT/MNNIT-Guides/wiki/1st-Year-some-random-tips-1)
+
 
 ## Second Year
 
-* [Overall-Guides](./1st-Year-Guides/0.overall-guides.md)
-* [Academic-Guides](./1st-Year-Guides/academic-guides.md)
-* [Android-Dev](./1st-Year-Guides/android-dev.md)
-* [Web-Dev](./1st-Year-Guides/web-dev.md)
-* [Open-Source-Dev](./1st-Year-Guides/open-source-dev.md)
-* [Game-Dev](./1st-Year-Guides/game-dev.md)
-* [Java-Dev](./1st-Year-Guides/java-dev.md)
-* [Python-Dev](./1st-Year-Guides/python-dev.md)
-* [Competitive-Coding](./1st-Year-Guides/competitive-coding-guides.md)
-* [Internships](./1st-Year-Guides/competitive-coding-guides.md)
+* [Overall-Guides](https://github.com/CC-MNNIT/MNNIT-Guides/wiki/2nd-Year-Overall-Guides)
+* [Academic-Guides](https://github.com/CC-MNNIT/MNNIT-Guides/wiki/2nd-Year-Academics-Guide)
+* [Android-Dev](https://github.com/CC-MNNIT/MNNIT-Guides/wiki/2nd-Year-Android-dev)
+* [Web-Dev](https://github.com/CC-MNNIT/MNNIT-Guides/wiki/2nd-Year-Web-dev)
+* [Open-Source-Dev](https://github.com/CC-MNNIT/MNNIT-Guides/wiki/2nd-Year-Open-source)
+* [Game-Dev](https://github.com/CC-MNNIT/MNNIT-Guides/wiki/2nd-Year-Game-dev)
+* [Java-Dev](https://github.com/CC-MNNIT/MNNIT-Guides/wiki/2nd-Year-Java-dev)
+* [Python-Dev](https://github.com/CC-MNNIT/MNNIT-Guides/wiki/2nd-Year-Python-dev)
+* [Competitive-Coding](https://github.com/CC-MNNIT/MNNIT-Guides/wiki/2nd-Year-Competitive-coding-1)
+* [Internships](https://github.com/CC-MNNIT/MNNIT-Guides/wiki/Internship-Guide)
 
 
 ## Third Year
 
-* [Overall-Guides](./1st-Year-Guides/0.overall-guides.md)
-* [Academic-Guides](./1st-Year-Guides/academic-guides.md)
-* [Android-Dev](./1st-Year-Guides/android-dev.md)
-* [Web-Dev](./1st-Year-Guides/web-dev.md)
-* [Open-Source-Dev](./1st-Year-Guides/open-source-dev.md)
-* [Game-Dev](./1st-Year-Guides/game-dev.md)
-* [Java-Dev](./1st-Year-Guides/java-dev.md)
-* [Python-Dev](./1st-Year-Guides/python-dev.md)
-* [Competitive-Coding](./1st-Year-Guides/competitive-coding-guides.md)
-* [Placements](./1st-Year-Guides/competitive-coding-guides.md)
+* [Overall-Guides](https://github.com/CC-MNNIT/MNNIT-Guides/wiki/3rd-Year-Overall-Guides)
+* [Academic-Guides](https://github.com/CC-MNNIT/MNNIT-Guides/wiki/3rd-Year-Academics-Guide)
+* [Android-Dev](https://github.com/CC-MNNIT/MNNIT-Guides/wiki/3rd-Year-Android-dev)
+* [Web-Dev](https://github.com/CC-MNNIT/MNNIT-Guides/wiki/3rd-Year-Web-dev)
+* [Open-Source-Dev](https://github.com/CC-MNNIT/MNNIT-Guides/wiki/3rd-Year-Open-source)
+* [Game-Dev](https://github.com/CC-MNNIT/MNNIT-Guides/wiki/3rd-Year-Game-dev)
+* [Java-Dev](https://github.com/CC-MNNIT/MNNIT-Guides/wiki/3rd-Year-Java-dev)
+* [Python-Dev](https://github.com/CC-MNNIT/MNNIT-Guides/wiki/3rd-Year-Python-dev)
+* [Competitive-Coding](https://github.com/CC-MNNIT/MNNIT-Guides/wiki/3rd-Year-Competitive-coding-1)
+* [Placements](https://github.com/CC-MNNIT/MNNIT-Guides/wiki/Placement-Guide)
 
 
 ## Final Year
 
-* [Overall-Guides](./1st-Year-Guides/0.overall-guides.md)
-* [Academic-Guides](./1st-Year-Guides/academic-guides.md)
-* [Android-Dev](./1st-Year-Guides/android-dev.md)
-* [Web-Dev](./1st-Year-Guides/web-dev.md)
-* [Open-Source-Dev](./1st-Year-Guides/open-source-dev.md)
-* [Game-Dev](./1st-Year-Guides/game-dev.md)
-* [Java-Dev](./1st-Year-Guides/java-dev.md)
-* [Python-Dev](./1st-Year-Guides/python-dev.md)
-* [Competitive-Coding](./1st-Year-Guides/competitive-coding-guides.md)
-* [Professional-Life](./1st-Year-Guides/competitive-coding-guides.md)
+* [Overall-Guides](https://github.com/CC-MNNIT/MNNIT-Guides/wiki/Final-Year-Overall-Guides)
+* [Academic-Guides](https://github.com/CC-MNNIT/MNNIT-Guides/wiki/Final-Year-Academics-Guide)
+* [Android-Dev](https://github.com/CC-MNNIT/MNNIT-Guides/wiki/Final-Year-Android-dev)
+* [Web-Dev](https://github.com/CC-MNNIT/MNNIT-Guides/wiki/Final-Year-Web-dev)
+* [Open-Source-Dev](https://github.com/CC-MNNIT/MNNIT-Guides/wiki/Final-Year-Open-source)
+* [Game-Dev](https://github.com/CC-MNNIT/MNNIT-Guides/wiki/Final-Year-Game-dev)
+* [Java-Dev](https://github.com/CC-MNNIT/MNNIT-Guides/wiki/Final-Year-Java-dev)
+* [Python-Dev](https://github.com/CC-MNNIT/MNNIT-Guides/wiki/Final-Year-Python-dev)
+* [Competitive-Coding](https://github.com/CC-MNNIT/MNNIT-Guides/wiki/Final-Year-Competitive-coding-1)
+* [Professional-Life](https://github.com/CC-MNNIT/MNNIT-Guides/wiki/Professional-Life)
 
 
 ## Contributions
