@@ -6,11 +6,11 @@
 
 [![Join the chat at https://gitter.im/CC-MNNIT/MNNIT-Guides](https://badges.gitter.im/CC-MNNIT/MNNIT-Guides.svg)](https://gitter.im/CC-MNNIT/MNNIT-Guides?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
-<span align="center">
+<h1 align="center">
 	<img width="400" src="https://raw.githubusercontent.com/CC-MNNIT/MNNIT-Guides/master/MNNIT.png" alt="Awesome">
 	<br>
 	<br>
-</span>
+</h1>
 
 <!--
 <p align="center">
